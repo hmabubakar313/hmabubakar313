@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on python(django)<br>I'm looking for help with python(django),Azure and Ai in python<br>I'm currently learning python(django) and AI<br>Ask me about django,rest api's,MySQL,rest framework,python,<br>I love book reading and cricket and playing chess
+I am a backend developer with experience in developing web applications using Django. I am proficient in Python and Git, and have also worked with Azure. In my free time, I enjoy reading books and poetry, playing chess, and listening to music.
 
 
 ## 🌐 Socials:
