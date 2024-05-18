@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a backend developer with experience in developing web applications using Django. I am proficient in Python and Git, and have also worked with Azure. In my free time, I enjoy reading books and poetry, playing chess, and listening to music.
+I am a backend developer with experience in developing web applications using Django. I am proficient in Python and Git. In my free time, I enjoy reading books and poetry, playing chess, and listening to music.
 
 
 ## 🌐 Socials:
