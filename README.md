@@ -1,13 +1,32 @@
-# 💫 About Me:
-I am a backend developer with experience in developing web applications using Django. I am proficient in Python and Git. In my free time, I enjoy reading books and poetry, playing chess, and listening to music.
+# About Me
 
+I am a backend engineer with more than three years of industry experience, specializing in building reliable, scalable, and maintainable web applications. My core expertise is in Python and Django, with hands-on experience delivering production-grade APIs, microservices, background processing pipelines, and full-stack features when required. I focus on clean architecture, performance, and long-term maintainability across all projects.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hmabubakar0016) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hmabubakar313) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hmabubakar313) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@hmabubakar313) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/hmabubakar313) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/hmabubakar313) 
+I have worked extensively with SQL databases, distributed task queues, containerized deployments, and modern DevOps workflows. I also collaborate closely with product teams to design efficient solutions and ensure smooth delivery from development to production.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hmabubakar313&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hmabubakar313&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hmabubakar313&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# What I Do
+
+• Design and develop backend systems and REST APIs using Django, Django REST Framework, and FastAPI  
+• Build async-ready, scalable services with Celery, Redis, and background tasks  
+• Implement secure authentication, role-based access, and optimized database queries  
+• Containerize and deploy applications using Docker, Docker Compose, Nginx, and Gunicorn  
+• Work with PostgreSQL, MySQL, and SQLite for structured, efficient data storage  
+• Deliver front-end features using Next.js when full-stack support is needed  
+• Write clean, maintainable code with strong focus on testing and CI/CD  
+• Collaborate effectively across teams and ensure high-quality delivery
+
+# Tech Stack
+
+Python, Django, Django REST Framework  
+FastAPI  
+PostgreSQL, MySQL, SQLite  
+Celery, Redis  
+Docker, Docker Compose  
+Nginx, Gunicorn  
+Next.js, HTML, CSS  
+Git, GitHub Actions, CI/CD  
+Azure, AWS (basic)
+
+# Approach
+
+I write code that is simple, predictable, and easy to maintain. My workflow emphasizes reliability, clarity, and performance. Whether building an API, integrating complex logic, or deploying a production service, I aim to deliver solutions that work smoothly today and remain easy to evolve in the future.
